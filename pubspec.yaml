@@ -4,6 +4,7 @@ description: >
 version: 1.0.0
 repository: https://github.com/houssemeddinefadhli81/stunning-extensions
 homepage: https://github.com/houssemeddinefadhli81/stunning-extensions
+publish_to: https://github.com/houssemeddinefadhli81/stunning-extensions
 
 environment:
   sdk: ^3.8.1

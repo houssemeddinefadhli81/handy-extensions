@@ -1,6 +1,6 @@
 # stunning_extensions
 
-A lightweight Dart package providing a collection of handy extension methods for **String**, **BuildContext**, and **Color** types.  
+A lightweight Dart package providing a collection of stunning extension methods for **String**, **BuildContext**, and **Color** types.  
 These extensions help make your Flutter and Dart code cleaner, shorter, and more readable.  
 This package will grow over time as more utilities are added.
 
