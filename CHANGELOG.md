@@ -9,7 +9,3 @@
 ## 1.0.2
 
 - improve README.md content.
-
-## 1.0.3
-
-- improve README.md content.
