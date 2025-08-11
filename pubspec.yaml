@@ -16,18 +16,8 @@ dev_dependencies:
   test: ^1.24.0
 
 topics:
-  - widget
   - dart
   - flutter
   - extensions
   - dart-extensions
   - flutter-extensions
-  - string-extensions
-  - date-extensions
-  - utility-functions
-  - helper-methods
-  - flutter-utils
-  - dart-utils
-  - productivity
-  - developer-tools
-  - clean-code
