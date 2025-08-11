@@ -1,0 +1,33 @@
+name: handy_extensions
+description: > 
+  A lightweight Dart package providing handy extension methods for Strings, Dates, Numbers, and more, designed to make your code cleaner, shorter, and more readable.
+version: 1.0.0
+repository: https://github.com/houssemeddinefadhli81/handy-extensions
+homepage: https://github.com/houssemeddinefadhli81/handy-extensions
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  test: ^1.24.0
+
+topics:
+  - widget
+  - dart
+  - flutter
+  - extensions
+  - dart-extensions
+  - flutter-extensions
+  - string-extensions
+  - date-extensions
+  - utility-functions
+  - helper-methods
+  - flutter-utils
+  - dart-utils
+  - productivity
+  - developer-tools
+  - clean-code
