@@ -38,7 +38,7 @@ linter:
     sort_unnamed_constructors_first: true
     sort_constructors_first: true
     curly_braces_in_flow_control_structures: true
-    #lines_longer_than_80_chars: true
+    # lines_longer_than_80_chars: true
     require_trailing_commas: true
     directives_ordering: true
 

@@ -1,10 +1,10 @@
 name: stunning_extensions
 description: > 
   A lightweight Dart package providing stunning extension methods for Strings, Dates, Numbers, and more, designed to make your code cleaner, shorter, and more readable.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/houssemeddinefadhli81/stunning-extensions
 homepage: https://github.com/houssemeddinefadhli81/stunning-extensions
-publish_to: https://github.com/houssemeddinefadhli81/stunning-extensions
+# publish_to: https://pub.dev  # optional, can be omitted
 
 environment:
   sdk: ^3.8.1

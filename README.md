@@ -37,4 +37,4 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  stunning_extensions: ^1.0.1
+  stunning_extensions: ^1.0.2
