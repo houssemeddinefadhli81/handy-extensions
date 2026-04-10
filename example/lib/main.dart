@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:stunning_extensions/stunning_extensions.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,9 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) => MaterialApp(
     title: 'Flutter Demo',
-    theme: ThemeData(
-      colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-    ),
+    theme: ThemeData(colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
     home: const MyHomePage(title: 'Flutter Demo Home Page'),
   );
 }
@@ -45,7 +44,8 @@ class _MyHomePageState extends State<MyHomePage> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-          const Text('You have pushed the button this many times:'),
+          // Usage of the capitalized function
+          Text('You have pushed the button this many times:'.capitalized),
           Text('$_counter', style: Theme.of(context).textTheme.headlineMedium),
         ],
       ),
